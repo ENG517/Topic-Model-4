@@ -7,16 +7,19 @@
   <refbody>
     <section>
   What an affix can do:
-  Help a farm make a name for itself and improve it's reputation
-You can register an affix and add it to the name of the horses that you have produced.
-You can create an extra affix every 30 days of seniority. 
-You will also get more affixes by subscribing to a Pegasus account.
-You can have several affixes and give them based on the breeds you use, for instance, or in order to differentiate lineages within a specific breeding farm focused on this or that breed.
+      <ul> Help a farm make a name for itself and improve it's reputation
+        <li>You can register an affix and add it to the name of the horses that you have produced.</li>
+        <li>You can create an extra affix every 30 days of seniority.</li>
+        <li>You will also get more affixes by subscribing to a Pegasus account.</li>
+        <li>You can have several affixes and give them based on the breeds you use, for instance, or in order to differentiate lineages within a specific breeding farm focused on this or that breed.</li>
+      </ul>
     </section>
     <section>
   Limitations:
-An Affix cannot be removed by future owners of horses produced in your breeding farm.
-You cannot add it to the name of horses that were born in your breeding farm.
+      <ul>
+        <li>An Affix cannot be removed by future owners of horses produced in your breeding farm.</li>
+        <li>You cannot add it to the name of horses that were born in your breeding farm.</li>
+      </ul>
     </section>
   </refbody>
 </reference>
