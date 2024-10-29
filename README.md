@@ -7,6 +7,14 @@ This repo contains a DITA topic model (TM) related to reserving and applying an 
 - Caimile Loy
 - Kelly Rogers
 
+## Project Maps
+
+### User Scenario 1
+(insert user scenario description here) (insert topicrefs here) (once ready to start finalizing, create a new branch--all final edits must be done in a brand and merged with a pull request)
+
+### User Scenario 2
+(insert user scenario description here) (insert topicrefs here) (once ready to start finalizing, create a new branch--all final edits must be done in a brand and merged with a pull request)
+
 ## Folders &amp; Files
 
 - `.github`: Contains configuration files for "Github Actions".
