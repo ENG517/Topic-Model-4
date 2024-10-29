@@ -3,7 +3,7 @@
 <reference id="r_top_skills_per_breed">
   <title>Top Three Skills by Horse Breed</title>
   <shortdesc>
-    TBD
+    Each horse breed has varying potential levels for each skill level that determines the amount of skill points they can gain for each skill type. Identifying the top three skills of each breed aids breeders in maximizing the best linear unbiased prediction (BLUP) score of their horse.
   </shortdesc>
   <refbody>
     <section>
