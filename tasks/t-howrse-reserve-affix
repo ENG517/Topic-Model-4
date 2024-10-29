@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="howrse_reserve_affix">
+  <!-- Enter task topic content inside the main task element -->
+    <title></title>
+    <shortdesc>
+    </shortdesc>
+    <taskbody>
+        <prereq>
+            <p></p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>
