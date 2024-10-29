@@ -6,7 +6,7 @@
   </shortdesc>
   <refbody>
     <section>
-  What an affix can do:
+    <title>What an affix can do:</title>
       <ul> Help a farm make a name for itself and improve it's reputation
         <li>You can register an affix and add it to the name of the horses that you have produced.</li>
         <li>You can create an extra affix every 30 days of seniority.</li>
@@ -15,7 +15,7 @@
       </ul>
     </section>
     <section>
-  Limitations:
+    <title>Limitations:</title>
       <ul>
         <li>An Affix cannot be removed by future owners of horses produced in your breeding farm.</li>
         <li>You cannot add it to the name of horses that were born in your breeding farm.</li>
