@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_ec_benefits">
+  <title>Equestrian Center Benefits</title>
+  <shortdesc>
+    The benefits offered by an equestrian center impacts your horse's care. By describing the various equestrian center benefits, you can select the equestrian center that is most appropriate to your horse and maximize care for your horse.
+  </shortdesc>
+  <refbody>
+    <table>
+      <title>Equestrian Center Advantages and Amenities</title>
+      <tgroup cols="2">
+        <thread>
+          <row>
+            <entry>Advantage</entry>
+            <entry>Description</entry>
+          </row>
+        </thread>
+        <tbody>
+          <row>
+            <entry>Box size</entry>
+            <entry>
+              <p>The bigger the box is, the more morale a horse bedded there receives when it wakes up. Equestrian centers can provide the following types of boxes:</p>
+              <ul>
+                <li>1* boxes</li>
+                <li>2** boxes</li>
+                <li>3*** boxes</li>
+              </ul>
+            </entry>
+          </row>
+          <row>
+            <entry>Bedding</entry>
+            <entry>
+              <p>Mares will lose less energy when giving birth if the quality of their bedding is good. Equestrian centers can provide the following types of bedding:</p>
+              <ul>
+                <li>Straw (less prestigious)</li>
+                <li>Flax (more prestigious)</li>
+              </ul>
+            </entry>
+          </row>
+          <row>
+            <entry>Center prestige</entry>
+            <entry>The money you earn for the missions your horse accomplishes increases with an equestrian center's prestige.</entry>
+          </row>
+          <row>
+            <entry>Meadow prestige</entry>
+            <entry>The higher the meadow prestige is, the more fodder your horse will be able to eat for free when grazing.</entry>
+          </row>
+          <row>
+            <entry>Food</entry>
+            <entry>Equestrian centers can choose to provide fodder, oats, carrots, and mash to borders. Borders can give those food items to their horses without depleting their own inventory.</entry>
+          </row>
+          <row>
+            <entry>Equipment</entry>
+            <entry>Equestrian centers can choose to provide saddle cloths, saddles, bridles, ear bonnets, and polo wraps to borders. Borders can give that equipment to their horses without depleting their own inventory if the specialty of their horse matches the specialty of the equipment offered by the center.</entry>
+          </row>
+          <row>
+            <entry>Center location</entry>
+            <entry>Skills increase twice as fast during rides if the location of the equestrian center corresponds to the type of ride your horse goes on. Equestrian centers can occupy the following locations:</entry>
+            <ul>
+              <li>Forest</li>
+              <li>Mountain</li>
+              <li>Beach</li>
+            </ul>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>
