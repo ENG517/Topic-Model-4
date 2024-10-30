@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_register_horse_ec">
+  <title>Register a Horse in an Equestrian Center</title>
+  <shortdesc>
+    At six months of age, after your horse has been weaned, you must board your horse in an equestrian center so that you can put it to bed and continue caring for it.
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Access the private page of the horse you want to board.</cmd>
+      </step>
+      <step>
+        <cmd>Locate the Equestrian Center tile on the horse's page.</cmd>
+        <cmd>Select "Register my horse."</cmd>
+        <stepresult>The equestrian center registration page displays.</stepresult>
+      </step>
+      <step>
+        <info>You can choose to board your horse in a public equestrian center or a reserved box. Equestrian center managers can choose to reserve boxes for their own horses or for other players.</info>
+        <cmd>Use the filter options to display equestrian centers that best suit your criteria.</cmd>
+      </step>
+      <step>
+        <cmd>Deterine the length of stay for your horse.</cmd>
+        <cmd>Select the equus amount listed for the desired equestrian center and length of stay.</cmd>
+        <stepresult>The private page of your horse displays. Your horse is now boarded in an equestrian center.</stepresult>
+      </step>
+    </steps>
+  </taskbody>
+</task>
