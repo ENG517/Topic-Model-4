@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_maximize_blup">
+  <title>Maximize a Horse's Best Linear Unbiased Prediction (BLUP) Score</title>
+  <shortdesc>
+    BLUP values for all horses fall within a range between -100 and 100, with -100 being the lowest possible BLUP and 100 being the highest possible BLUP that a horse can reach.
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Access the private page of the horse you intend to BLUP.</cmd>
+        <cmd>Register the horse in an equestrian center.</cmd>
+      </step>
+      <step></step>
+    </steps>
+  </taskbody>
+</task>
