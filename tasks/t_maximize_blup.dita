@@ -8,10 +8,30 @@
   <taskbody>
     <steps>
       <step>
-        <cmd>Access the private page of the horse you intend to BLUP.</cmd>
-        <cmd>Register the horse in an equestrian center.</cmd>
+        <cmd>Access the private page of the horse you intend to BLUP and register the horse in an equestrian center.</cmd>
       </step>
-      <step></step>
+      <step>
+        <cmd>Once your horse is at least 1 year and 6 months of age, maximize the hours your horse goes on forest rides each time it wakes up until it can gain no more skill points from forest rides.</cmd>
+        <info>Make sure to balance forest rides with daily care, food, and water to keep your horse happy and healthy.</info>
+      </step>
+      <step>
+        <cmd>After your horse can no longer gain skill points from forest rides, maximize the hours your horse goes on mountain rides each time it wakes up until it can gain no more skill points from mountain rides.</cmd>
+        <info>Make sure to balance mountain rides with daily care, food, and water to keep your horse happy and healthy.</info>
+      </step>
+      <step>
+        <cmd>After your horse can no longer gain skill points from mountain rides, identify your horse's best three skills for training.</cmd>
+        <substeps>
+          <substep>
+            <cmd>Navigate to the <uicontrol>Characteristics</uicontrol> tab at the bottom of your horse's private page.</cmd>
+          </substep>
+          <substep>
+            <cmd>Select your horse's breed to access the directory page for that breed.</cmd>
+          </substep>
+          <substep>
+            <cmd></cmd>
+          </substep>
+        </substeps>
+      </step>
     </steps>
   </taskbody>
 </task>
