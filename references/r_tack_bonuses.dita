@@ -7,154 +7,149 @@
   <!--Bridles-->
     <section>
       <simpletable>
-        <title>Bridles</title>
-          <sthead>
-            <stentry>Tack</stentry>
-            <stentry>Bonus</stentry>
-          </sthead>
-          <strow>
-            <stentry>1* Classical Bridle</stentry>
-            <stentry>+1 in each skill</stentry>
-          </strow>
-          <strow>
-            <stentry>2** Classical Bridle</stentry>
-            <stentry>+2 in each skill</stentry>
-          </strow>
-          <strow>
-            <stentry>3*** Classical Bridle</stentry>
-            <stentry>+3 in each skill</stentry>
-          </strow>
-          <strow>
-            <stentry>1* Western Bridle</stentry>
-            <stentry>+1 in each skill</stentry>
-          </strow>
-          <strow>
-            <stentry>2** Western Bridle</stentry>
-            <stentry>+2 in each skill</stentry>
-          </strow>
-          <strow>
-            <stentry>3*** Western Bridle</stentry>
-            <stentry>+3 in each skill</stentry>
-          </strow>          
+        <sthead>
+          <stentry>Tack</stentry>
+          <stentry>Bonus</stentry>
+        </sthead>
+        <strow>
+          <stentry>1* Classical Bridle</stentry>
+          <stentry>+1 in each skill</stentry>
+        </strow>
+        <strow>
+          <stentry>2** Classical Bridle</stentry>
+          <stentry>+2 in each skill</stentry>
+        </strow>
+        <strow>
+          <stentry>3*** Classical Bridle</stentry>
+          <stentry>+3 in each skill</stentry>
+        </strow>
+        <strow>
+          <stentry>1* Western Bridle</stentry>
+          <stentry>+1 in each skill</stentry>
+        </strow>
+        <strow>
+          <stentry>2** Western Bridle</stentry>
+          <stentry>+2 in each skill</stentry>
+        </strow>
+        <strow>
+          <stentry>3*** Western Bridle</stentry>
+          <stentry>+3 in each skill</stentry>
+        </strow>          
       </simpletable>
     </section>
 <!--Saddles-->
     <section>
       <simpletable>
-        <title>Saddles</title>
+        <sthead>
+          <stentry>Tack</stentry>
+          <stentry>Bonus</stentry>
+        </sthead>
+        <strow>
+          <stentry>1* Classical Saddle</stentry>
+          <stentry>+1 in each skill</stentry>
+        </strow>
+        <strow>
+          <stentry>2** Classical Saddle</stentry>
+          <stentry>+2 in each skill</stentry>
+        </strow>
+        <strow>
+          <stentry>3*** Classical Saddle</stentry>
+          <stentry>+3 in each skill</stentry>
+        </strow>
+        <strow>
+          <stentry>1* Western Saddle</stentry>
+          <stentry>+1 in each skill</stentry>
+        </strow>
+        <strow>
+          <stentry>2** Western Saddle</stentry>
+          <stentry>+2 in each skill</stentry>
+        </strow>
+        <strow>
+          <stentry>3*** Western Saddle</stentry>
+          <stentry>+3 in each skill</stentry>
+        </strow>      
+      </simpletable>
+    </section>
+<!--Saddle Blanket-->
+    <section>
+      <simpletable>
           <sthead>
             <stentry>Tack</stentry>
             <stentry>Bonus</stentry>
           </sthead>
           <strow>
-            <stentry>1* Classical Saddle</stentry>
+            <stentry>1* Classical Saddle Cloth</stentry>
             <stentry>+1 in each skill</stentry>
           </strow>
           <strow>
-            <stentry>2** Classical Saddle</stentry>
-            <stentry>+2 in each skill</stentry>
-          </strow>
-          <strow>
-            <stentry>3*** Classical Saddle</stentry>
-            <stentry>+3 in each skill</stentry>
-          </strow>
-          <strow>
-            <stentry>1* Western Saddle</stentry>
+            <stentry>1* Western Saddle Cloth</stentry>
             <stentry>+1 in each skill</stentry>
           </strow>
-          <strow>
-            <stentry>2** Western Saddle</stentry>
-            <stentry>+2 in each skill</stentry>
-          </strow>
-          <strow>
-            <stentry>3*** Western Saddle</stentry>
-            <stentry>+3 in each skill</stentry>
-          </strow>      
       </simpletable>
     </section>
-<!--Saddle Blanket-->
-    <section>
-          <simpletable>
-            <title>Saddle Blanket</title>
-              <sthead>
-                <stentry>Tack</stentry>
-                <stentry>Bonus</stentry>
-              </sthead>
-              <strow>
-                <stentry>1* Classical Saddle Cloth</stentry>
-                <stentry>+1 in each skill</stentry>
-              </strow>
-              <strow>
-                <stentry>1* Western Saddle Cloth</stentry>
-                <stentry>+1 in each skill</stentry>
-              </strow>
-          </simpletable>
-        </section>
 <!--Polo wraps-->
     <section>
-          <simpletable>
-            <title>Polo wraps</title>
-              <sthead>
-                <stentry>Tack</stentry>
-                <stentry>Bonus</stentry>
-              </sthead>
-              <strow>
-                <stentry>1* Polo Wraps</stentry>
-                <stentry>+1 in each skill</stentry>
-              </strow>
-          </simpletable>
-        </section>     
+      <simpletable>
+        <title>Polo wraps</title>
+          <sthead>
+            <stentry>Tack</stentry>
+            <stentry>Bonus</stentry>
+          </sthead>
+          <strow>
+            <stentry>1* Polo Wraps</stentry>
+            <stentry>+1 in each skill</stentry>
+          </strow>
+      </simpletable>
+    </section>     
 <!--Ear bonnets-->
     <section>
-          <simpletable>
-            <title>Ear bonnets</title>
-              <sthead>
-                <stentry>Tack</stentry>
-                <stentry>Bonus</stentry>
-              </sthead>
-              <strow>
-                <stentry>1* Ear Bonnet</stentry>
-                <stentry>+1 in each skill</stentry>
-              </strow>
-          </simpletable>
-        </section>
+      <simpletable>
+          <sthead>
+            <stentry>Tack</stentry>
+            <stentry>Bonus</stentry>
+          </sthead>
+          <strow>
+            <stentry>1* Ear Bonnet</stentry>
+            <stentry>+1 in each skill</stentry>
+          </strow>
+      </simpletable>
+    </section>
   <!--Bonus-->
     <section>
-          <simpletable>
-            <title>Bonus</title>
-              <sthead>
-                <stentry>Tack</stentry>
-                <stentry>Bonus</stentry>
-              </sthead>
-              <strow>
-                <stentry>Bell boots</stentry>
-                <stentry>
-                  <ul>
-                    <li>Speed: +6</il>
-                    <li>Dressage: +6</li>
-                    <li>Jumping: +6</li>
-                  </ul>
-                </stentry>
-              </strow>
-              <strow>
-                <stentry>Spurs</stentry>
-                <stentry>+9 in each skill</stentry>
-              </strow>
-              <strow>
-                <stentry>Lunge</stentry>
-                <stentry>
-                  <ul>
-                    <li>Dressage: +12</il>
-                    <li>Gallop: +10</li>
-                    <li>Trot: +10</li>
-                  </ul>                
-                </stentry>
-              </strow>
-              <strow>
-                <stentry>Horseshoe Studs</stentry>
-                <stentry>Best skill: +12</stentry>
-              </strow>                               
-          </simpletable>
-        </section>           
+      <simpletable>
+        <sthead>
+          <stentry>Tack</stentry>
+          <stentry>Bonus</stentry>
+        </sthead>
+        <strow>
+          <stentry>Bell boots</stentry>
+          <stentry>
+            <ul>
+              <li>Speed: +6</il>
+              <li>Dressage: +6</li>
+              <li>Jumping: +6</li>
+            </ul>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>Spurs</stentry>
+          <stentry>+9 in each skill</stentry>
+        </strow>
+        <strow>
+          <stentry>Lunge</stentry>
+          <stentry>
+            <ul>
+              <li>Dressage: +12</il>
+              <li>Gallop: +10</li>
+              <li>Trot: +10</li>
+            </ul>                
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>Horseshoe Studs</stentry>
+          <stentry>Best skill: +12</stentry>
+        </strow>                               
+      </simpletable>
+    </section>           
   </refbody>
 </reference>
