@@ -6,16 +6,16 @@
   </shortdesc>
   <taskbody>
     <steps>
-      <step>
+      <step audience="novice">
         <cmd>In the homepage menu bar, navigate to Breeding farm then Office. The My affixes tab displays.</cmd>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>At the bottom of the page, select Reserve an affix. The affix reservation window displays.</cmd>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>Give your affix a name and description.</cmd>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>Select Create this affix.</cmd>
       </step>
     </steps>
