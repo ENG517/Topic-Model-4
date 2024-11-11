@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_reserve_affix">
-  <title></title>
-  <shortdesc>
-
+  <title>Reserve an Affix</title>
+  <shortdesc>Before reserving and applying an affix to a horse, you'll need at least 30 days of seniority on the game. You may reserve one affix for every 30 days of seniority you have. The number of affixes you are eligible to reserve is cumulative.
   </shortdesc>
   <taskbody>
     <steps>
