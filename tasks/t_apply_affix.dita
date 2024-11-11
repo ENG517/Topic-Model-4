@@ -7,16 +7,16 @@
   </shortdesc>
   <taskbody>
     <steps>
-      <step>
+      <step audience="novice">
         <cmd>Navigate to a horse's page in your breeding farm. Make sure this horse was born in your breeding farm.</cmd>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>Next to the horse's name, select the Plus button and then Edit profile.</cmd>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>In the affix drop-down menu, select the affix you would like to apply to that horse.</cmd>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>Select Confirm.</cmd>
       </step>
     </steps>
