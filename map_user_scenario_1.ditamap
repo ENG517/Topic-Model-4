@@ -2,9 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_user_scenario_1">
   <title>How to Reserve and Apply an Affix</title>
-  <topicref type="concept" href="concepts/c_about_affix.dita" format="ditamap" />
-  <topicref type="concept" href="concepts/c_team_affixes.dita" format="ditamap" />
-  <topicref type="task" href="tasks/t_reserve_affix.dita" format="ditamap">
-    <topicref type="task" href="tasks/t_apply_affix.dita" format="ditamap" />
+  <topicref type="concept" href="concepts/c_about_affix.dita" />
+  <topicref type="concept" href="concepts/c_team_affixes.dita" />
+  <topicref type="task" href="tasks/t_reserve_affix.dita" >
+    <topicref type="task" href="tasks/t_apply_affix.dita" />
   </topicref>
 </map>
