@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_user_scenario_1">
+  <title>Howrse Affixes</title>
+  <topicref type="concept" href="c_about_affix" format="ditamap" />
+  <topicref type="concept" href="c_team_affixes" format="ditamap" />
+  <topicref type="task" href="t_reserve_affix" format="ditamap">
+    <topicref type="task" href="t_apply_affix" format="ditamap" />
+  </topicref>
+</map>
