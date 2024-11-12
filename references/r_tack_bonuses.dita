@@ -90,7 +90,6 @@
 <!--Polo wraps-->
     <section>
       <simpletable>
-        <title>Polo wraps</title>
           <sthead>
             <stentry>Tack</stentry>
             <stentry>Bonus</stentry>
@@ -125,7 +124,7 @@
           <stentry>Bell boots</stentry>
           <stentry>
             <ul>
-              <li>Speed: +6</il>
+              <li>Speed: +6</li>
               <li>Dressage: +6</li>
               <li>Jumping: +6</li>
             </ul>
@@ -139,7 +138,7 @@
           <stentry>Lunge</stentry>
           <stentry>
             <ul>
-              <li>Dressage: +12</il>
+              <li>Dressage: +12</li>
               <li>Gallop: +10</li>
               <li>Trot: +10</li>
             </ul>                

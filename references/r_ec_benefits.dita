@@ -9,12 +9,12 @@
     <table>
       <title>Equestrian Center Advantages and Amenities</title>
       <tgroup cols="2">
-        <thread>
+        <thead>
           <row>
             <entry>Advantage</entry>
             <entry>Description</entry>
           </row>
-        </thread>
+        </thead>
         <tbody>
           <row>
             <entry>Box size</entry>
@@ -55,12 +55,14 @@
           </row>
           <row>
             <entry>Center location</entry>
-            <entry>Skills increase twice as fast during rides if the location of the equestrian center corresponds to the type of ride your horse goes on. Equestrian centers can occupy the following locations:</entry>
-            <ul>
+            <entry>
+              <p>Skills increase twice as fast during rides if the location of the equestrian center corresponds to the type of ride your horse goes on. Equestrian centers can occupy the following locations:</p>
+              <ul>
               <li>Forest</li>
               <li>Mountain</li>
               <li>Beach</li>
             </ul>
+            </entry>
           </row>
         </tbody>
       </tgroup>
