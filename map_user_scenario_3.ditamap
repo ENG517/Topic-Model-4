@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_user_scenario_3">
+  <title>Best Linear Unbiased Prediction (BLUP)</title>
+  <topicref type="concept" href="concepts/c_about_blup.dita" />
+  <topicref type="task" href="tasks/t_maximize_blup.dita" >
+    <topicref type="reference" href="references/r_top_skills_rh_breeds.dita" />
+    <topicref type="reference" href="references/r_tack_bonuses.dita" />
+    <topicref type="reference" href="references/r_foal_games.dita" />
+  </topicref>
+  <topicref type="task" href="tasks/t_register_horse_ec.dita" >
+    <topicref type="reference" href="references/r_ec_benefits.dita" />
+  </topicref>
+</map>

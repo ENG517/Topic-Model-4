@@ -9,12 +9,12 @@
     <table>
       <title>Equestrian Center Advantages and Amenities</title>
       <tgroup cols="2">
-        <thread>
+        <thead>
           <row>
             <entry>Advantage</entry>
             <entry>Description</entry>
           </row>
-        </thread>
+        </thead>
         <tbody>
           <row>
             <entry>Box size</entry>
