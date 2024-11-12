@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_breeding_bmis">
+  <title>Reproduction Black Market Items</title>
+  <shortdesc>
+    Optimize your horses' breeding by apply a Black Market Item from the reproduction category to your mare.
+  </shortdesc>
+  <refbody>
+    <table>
+      <title>Black Market Items in the Reproduction Category</title>
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Black Market Item</entry>
+            <entry>Description</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Aphrodite's Tears</entry>
+            <entry>The inborn skills of a foal that will be born are increased by 50%.</entry>
+          </row>
+          <row>
+            <entry>Artemis' Arrow</entry>
+            <entry>Your mare ages twice as fast. The earnings from the lessons are doubled during this time.</entry>
+          </row>
+          <row>
+            <entry>Eros Egg</entry>
+            <entry>Get an extra covering for your divine horse. Applies to Falabellas, Falacorns, Zebras and Jennies and can only be applied after their initial covering limit is reached.</entry>
+          </row>
+          <row>
+            <entry>Fertility Wand</entry>
+            <entry>Give birth to identical twins.</entry>
+          </row>
+          <row>
+            <entry>Hera's Lily</entry>
+            <entry>Choose the coat for your foal. Select the coat among the ones available for your horse's breed.</entry>
+          </row>
+          <row>
+            <entry>Hera's Pack</entry>
+            <entry>
+              <p>Save on items bought individually and enjoy an exclusive item:</p>
+              <ul>
+                <li>10 x Aging Points</li>
+                <li>Aphrodite's Tears</li>
+                <li>Artemis' Arrow</li>
+                <li>Fertility Wand</li>
+                <li>Hera's Lily</li>
+              </ul>
+            </entry>
+          </row>
+          <row>
+            <entry>Hestia's Gift</entry>
+            <entry>Be 100% sure of giving birth to unicorns. Complete the covering without starting a unicorn covering session.</entry>
+          </row>
+          <row>
+            <entry>Phanes Egg</entry>
+            <entry>Get an extra covering for your donkey or draft horse. Applies to all breeds of donkey and draft horse.</entry>
+          </row>
+          <row>
+            <entry>Zues' Lightning Bolt</entry>
+            <entry>Change your horse's gender. Does not apply to geldings and pregnant mares.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>
