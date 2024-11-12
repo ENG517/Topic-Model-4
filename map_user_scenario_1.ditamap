@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_user_scenario_1">
-  <title>How to Reserve and Apply an Affix</title>
+  <title>About Affixes</title>
   <topicref type="concept" href="concepts/c_about_affix.dita" />
   <topicref type="concept" href="concepts/c_team_affixes.dita" />
   <topicref type="task" href="tasks/t_reserve_affix.dita" >

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_user_scenario_2">
+  <title>About Coverings</title>
+  <topicref type="concept" href="concepts/c_about_coverings.dita" />
+  <topicref type="concept" href="concepts/c_team_coverings.dita" >
+    <topicref type="concept" href="concepts/c_team_affixes.dita" />
+  </topicref>
+  <topicref type="task" href="tasks/t_cover_mare.dita" >
+    <topicref type="task" href="tasks/t_register_horse_ec.dita" />
+    <topicref type="reference" href="references/r_breeding_bmis.dita" />
+  </topicref>
+</map>

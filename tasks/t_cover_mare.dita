@@ -11,17 +11,14 @@
         <cmd>Navigate to a mare's private page in your breeding farm.</cmd>
       </step>
       <step>
-        <cmd>Find the Breeding tile on your mare's page.</cmd>
-        <cmd>Select Cover my mare.</cmd>
+        <cmd>Find the Breeding tile on your mare's page and select <uicontrol>Cover my mare</uicontrol>.</cmd>
         <stepresult>The public coverings search page displays.</stepresult>
       </step>
       <step>
-        <cmd>Use the available filter feature to apply specific criteria to your search.</cmd>
-        <cmd>Select Display coverings.</cmd>
+        <cmd>Use the available filter feature to apply specific criteria to your search and select <uicontrol>Display coverings</uicontrol>.</cmd>
       </step>
       <step>
-        <cmd>Pick the public covering offer you'd like to accept.</cmd>
-        <cmd>Select Choose.</cmd>
+        <cmd>Pick the public covering offer you'd like to accept and select <uicontrol>Choose</uicontrol>.</cmd>
         <stepresult>A confirmation page displays that allows you to preview the genetic details of the stallion before accepting the covering.</stepresult>
       </step>
       <step>
