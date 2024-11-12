@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_foal_games">
+  <title>Foal Games Schedule</title>
+  <shortdesc>
+    A foal can begin foal games at 8 months of age through the time it reaches 1 year and 4 months of age. Different combinations of care and playtime with a foal during those months will result in varying amounts of skill points gained.
+  </shortdesc>
+  <refbody>
+    <table>
+      <title>Foal Games</title>
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Age</entry>
+            <entry>Care Actions</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>8 months</entry>
+            <entry>Groom, play for 1 hour, carrot, feed, play for 7.5 hours, stroke, drink, play for 1 hour, bed.</entry>
+          </row>
+          <row>
+            <entry>10 months</entry>
+            <entry>Groom, play for 1 hour, carrot, feed, play for 8 hours, stroke, drink, play for 1.5 hours, bed.</entry>
+          </row>
+          <row>
+            <entry>1 year</entry>
+            <entry>Groom, play for 1 hour, carrot, feed, play for 9 hours, stroke, drink, play for 1.5 hours, bed.</entry>
+          </row>
+          <row>
+            <entry>1 year and 2 months</entry>
+            <entry>Groom, play for 2 hours, carrot, feed, play for 9 hours, stroke, drink, play for 1.5 hours, bed.</entry>
+          </row>
+          <row>
+            <entry>1 year and 4 months</entry>
+            <entry>Groom, play for 2 hours, carrot, feed, play for 9.5 hours, stroke, drink, bed.</entry>
+          </row>
+        </tbody>
+  </refbody>
+</reference>
