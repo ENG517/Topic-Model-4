@@ -12,11 +12,34 @@ This repo contains a DITA topic model (TM) related to reserving and applying an 
 ### User Scenario 1: Affixes
 Tina is 34 years old and has played various online web browser games for the past five years. Last week, she created an account on Howrse and has been trying to learn the ins and outs of  the game. She notices that some horses in the game have a piece of italicized text beneath their names that hyperlinks to a separate page displaying a bunch of horses with that same piece of italicized text tagged under their names. On this page, she notices that the piece of italicized text is called an “affix.” Tina has also started a personal project on the game where she intends to breed Fjord unicorns, and she wants to find a way to label each of the horses born from this project so that their names indicate they are a part of this specific breeding project. She realizes that an affix could be the best way to do this.
 
+Map Outline:
+- c_about_affix.dita (About Affixes)
+- c_team_affixes.dita (Team Affixes)
+- t_reserve_affix.dita (Reserve an Affix)
+  - t_apply_affix.dita (Apply an Affix)
+
 ### User Scenario 2: Coverings
 Cody, a 57-year-old man, was introduced to Howrse by his wife, Anna, a little more than a month ago. He’s not totally enthralled by the game, but he wants to learn how to play because of how much it would mean to his wife if they were able to play together. Every now and then, Cody will hop online and start clicking around the game interface to see what all he can do. So far, he’s learned a bit of the basics, but he doesn’t play consistently enough to dive into the more advanced parts of the game. One thing that Cody does know, however, is that players (generally) aim to breed horses with the highest genetic potential and skill points possible, which means players must be mindful about which horses they choose to breed together to birth foals. Cody takes a look at his current studs and mares and, since he’s relatively new to the game, sees that his studs don’t have very high stats. He knows that, in order to advance his game, he needs to find a “good” stud’s covering offer for his mare. Since he doesn’t have any to offer up from his own studs, he decides he needs to find another player who does.
 
+Map Outline:
+- c_about_coverings.dita (About Coverings)
+- c_team_coverings.dita (About Team Coverings)
+  - c_team_affixes.dita (About Team Affixes)
+- t_cover_mare.dita (Cover a Mare with a Public Covering)
+  - t_register_horse_ec.dita (Register a Horse in an Equestrian Center)
+  - r_breeding_bmis.dita (Reproduction Black Market Items)
+
 ### User Scenario 3: BLUP
 Hazel, a 22-year-old college student, started playing Howrse two years ago. They’re active in Reddit forums and Discord servers about the game and have thoroughly enjoyed their time on Howrse. During those two years, their gameplay was mostly focused on advancing their equestrian center’s prestige, collecting rare coats on the game, and participating in forum discussion about the weekly promos that the game developers implement. However, recently, Hazel has decided that they want to join a competitive team on the server—a team that works to produce the highest quality horses (based on genetic potential and skill points) for a particular breed, the KWPN (Dutch Warmblood). Hazel knows that the top teams on the server usually move at a fast pace when they breed horses, and they only breed two horses together if both horses have a score of 100 BLUP, as this maximizes the genetic potential of the foal. There’s a great deal of strategy that goes into getting a horse to 100 BLUP, and Hazel really wants to learn so that they can prove they would be a good fit for the KWPN team. Although Hazel knows how to care for a horse in the game (including running rides, training, and entering competitions), they’re not sure where to start when it comes to increasing a horse’s BLUP score.
+
+Map Outline:
+- c_about_blup.dita (About the Best Unbiased Linear Prediction (BLUP) Score)
+- t_maximize_blup.dita (Maximize a Horse's Best Unbiased Linear Prediction (BLUP) Score)
+  - r_top_skills_rh_breeds.dita (Top Three Skills by Riding Horse Breed)
+  - r_tack_bonuses.dita (Tack Bonuses)
+  - r_foal_games (Foal Games Schedule)
+- t_register_horse_ec.dita (Register a Horse in an Equestrian Center)
+  - r_ec_benefits.dita (Equestrian Center Benefits)
 
 ## Folders &amp; Files
 
