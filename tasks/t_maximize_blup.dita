@@ -56,6 +56,7 @@
         <cmd>After your horse has won first place in 20 different competitions, age your horse with aging points until it turns 10 years of age, or care for it daily until it turns 10 years of age.</cmd>
       </step>
     </steps>
+    <!-- I would consider adding example image outputs at some moments in your model, whether at the end as a result or at certain critical moments in the procedure. -->
     <result>The BLUP indicator, found in the <uicontrol>Genetic</uicontrol> tab at the bottom of your horse's page, should display a score of 100.</result>
   </taskbody>
 </task>
