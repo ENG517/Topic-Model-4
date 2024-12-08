@@ -6,20 +6,30 @@
     A covering refers to the breeding of a mare and a stallion. You can choose to accept a public or private covering offer for your mare.
   </shortdesc>
   <conbody>
-    <p>Accepting a covering offer allows you to strategically enhance a bloodline by producing foals with superior genetics.</p>
-    <p>There are three different types of coverings: public, private, and team.</p>
+    <p>
+      Accepting a covering offer allows you to strategically enhance a bloodline by producing foals with superior genetics.
+    </p>
+    <p>
+      There are three different types of coverings: public, private, and team.
+    </p>
     <dl>
       <dlentry>
         <dt>Public Covering</dt>
-        <dd>Posted by a player on the public coverings page, where it becomes available for any player to accept for their mare.</dd>
+        <dd>
+          Posted by a player on the public coverings page, where it becomes available for any player to accept for their mare.
+        </dd>
       </dlentry>
       <dlentry>
         <dt>Private Covering</dt>
-        <dd>Posted between two specific players in a reserved exchange or is posted by you to use for one of your own mares.</dd>
+        <dd>
+          Posted between two specific players in a reserved exchange or is posted by you to use for one of your own mares.
+        </dd>
       </dlentry>
       <dlentry>
         <dt>Team Covering</dt>
-        <dd>Posted by players who are on the same team in a reserved exchange to use only on mares who hold the team affix. These coverings are only given out by stallions with the team affix as well.</dd>
+        <dd>
+          Posted by players who are on the same team in a reserved exchange to use only on mares who hold the team affix. These coverings are only given out by stallions with the team affix as well.
+        </dd>
       </dlentry>
     </dl>
   </conbody>
