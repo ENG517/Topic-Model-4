@@ -5,6 +5,10 @@
   <shortdesc>
     The Best Linear Unbiased Prediction (BLUP) plays an important role in breeding horses because the BLUP values of the parent horses impact a foal's genetic potential and innate skills.
   </shortdesc>
+  <fig>
+    <image href="../assets/images/ss-show-blup-bar.png" />
+    <p><b><i>Figure 1: BLUP is displayed under the <uicontrol>Genetics</uicontrol> tab of a horse's private page.</i></b></p>
+  </fig>
   <conbody>
     <section>
       <title>What is BLUP?</title>
@@ -28,6 +32,10 @@
       <p>
         To reach a score of 100 BLUP, a horse must fully maximize training in the top three skills for its breed, win 20 competitions, and be at least 10 years of age.
       </p>
+      <fig>
+        <image href="../assets/images/ss-blup-requirements.png" />
+        <p><b><i>Figure 2: The BLUP bar displays your horse's progress in reaching 100 BLUP.</i></b></p>
+      </fig>
     </section>
   </conbody>
 </concept>

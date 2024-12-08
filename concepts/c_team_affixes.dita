@@ -2,10 +2,15 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_team_affixes">
   <title>Team Affixes</title>
-  <shortdesc>You can use an affix that is shared across all your team mates for all horses belonging to the breed that you all collaborate on together. Only purebred horses can receive the team affix.
+  <shortdesc>
+    You can use an affix that is shared across all your team mates for all horses belonging to the breed that you all collaborate on together. Only purebred horses can receive the team affix.
   </shortdesc>
   <conbody>
-    <p>The team affix is automatically assigned to a foal born from horses bearing the team's affix if the foal's genetic potential is higher than the maximum threshold you have set for your sales.</p>
-    <p>Horses exceeding this genetic potential cannot be sold outside the team, unless they are geldings. Their affix cannot be withdrawn or replaced.</p>        
+    <p>
+      The team affix is automatically assigned to a foal born from horses bearing the team's affix if the foal's genetic potential is higher than the maximum threshold you have set for your sales.
+    </p>
+    <p>
+      Horses exceeding this genetic potential cannot be sold outside the team, unless they are geldings. Their affix cannot be withdrawn or replaced.
+    </p>        
   </conbody>
 </concept>
