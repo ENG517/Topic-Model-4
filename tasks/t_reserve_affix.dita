@@ -3,7 +3,7 @@
 <task id="t_reserve_affix">
   <title>Reserve an Affix</title>
   <shortdesc>
-    Before reserving and applying an affix to a horse, you'll need at least 30 days of seniority on the game. You may reserve one affix for every 30 days of seniority you have. The number of affixes you are eligible to reserve is cumulative.
+    Before reserving and applying an affix, you'll need at least 30 days of seniority. You may reserve one affix for every 30 days of seniority. The number of affixes you are eligible to reserve is cumulative.
   </shortdesc>
   <taskbody>
     <steps>
