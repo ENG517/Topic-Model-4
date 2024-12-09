@@ -13,7 +13,7 @@
     <section>
       <title>What is BLUP?</title>
       <p>
-        BLUP is a genetic index for horses. BLUP values for all horses fall within a range between -100 and 100, with -100 being the lowest possible BLUP and 100 being the highest possible BLUP that a horse can reach.
+        BLUP is a genetic index for horses. BLUP values for all horses fall within a range between -100 and 100, with -100 being the lowest possible BLUP and 100 being the highest possible BLUP.
       </p>
       <p>
         A higher average BLUP of the parents will increase a foal's chance of having higher genetic potential and innate skills. The foal will not have any innate skills if the average BLUP of the parents is below 0.
@@ -25,7 +25,7 @@
         The following factors influence a horse's BLUP:
         <ul>
           <li>Training level in the best three skills for its breed</li>
-          <li>Number of competitions it has won</li>
+          <li>Number of competitions won</li>
           <li>Horse's age</li>
         </ul>
       </p>

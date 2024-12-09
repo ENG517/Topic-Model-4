@@ -3,7 +3,7 @@
 <reference id="r_breeding_bmis">
   <title>Reproduction Black Market Items</title>
   <shortdesc>
-    Optimize your horses' breeding by apply a Black Market Item from the reproduction category to your mare.
+    Optimize your horses' breeding by appling a Black Market Item from the reproduction category to your mare.
   </shortdesc>
   <refbody>
     <table>
@@ -18,7 +18,7 @@
         <tbody>
           <row>
             <entry>Aphrodite's Tears</entry>
-            <entry>The inborn skills of a foal that will be born are increased by 50%.</entry>
+            <entry>Increase a foal’s inborn skills by 50%.</entry>
           </row>
           <row>
             <entry>Artemis' Arrow</entry>
@@ -26,7 +26,7 @@
           </row>
           <row>
             <entry>Eros Egg</entry>
-            <entry>Get an extra covering for your divine horse. Applies to Falabellas, Falacorns, Zebras and Jennies and can only be applied after their initial covering limit is reached.</entry>
+            <entry>Get an extra covering for your divine horse. Applies to Falabellas, Falacorns, Zebras and Jennies and can only be applied after they reach their initial covering limit.</entry>
           </row>
           <row>
             <entry>Fertility Wand</entry>
