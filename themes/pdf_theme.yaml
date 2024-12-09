@@ -66,8 +66,8 @@ fonts:
     h5: 15pt
     h6: 15pt
     copy: 14pt
-    uicontrol: 14pt
-    small: 12pt
+    uicontrol: 12pt
+    small: 10pt
 
 ###############
 # LINE SPACING
@@ -149,8 +149,8 @@ style:
     font-family: $fonts-families-copy
     color: $colors-secondary-main
   shortdesc:
-    margin-top: $spacing-lines-xlarge
-    margin-bottom: $spacing-lines-xlarge
+    margin-top: $spacing-lines-large
+    margin-bottom: $spacing-lines-large
   prereq:
     margin-top: $spacing-lines-xlarge
     margin-bottom: $spacing-lines-xlarge
@@ -186,9 +186,16 @@ style:
     font-size: $fonts-sizing-uicontrol
   uicontrol:
     font-family: $fonts-families-monospaced
-    color: $colors-primary-main
+    color: $colors-secondary-main
     font-size: $fonts-sizing-uicontrol
-
+  fig:
+    font-family: $fonts-families-copy
+    font-size: $fonts-sizing-small
+    margin-bottom: 20pt
+    text-align: center
+  image:
+    text-align: center
+    margin-top: 10pt
 
 ###################
 # DOC HEADER SETUP
