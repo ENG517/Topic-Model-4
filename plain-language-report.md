@@ -1,5 +1,3 @@
 ## Summary Report: Plain-Language Editing & Design
 
-Authors: Caimile Loy and Kelly Rogers
-
-Date: Wednesday, December 11, 2024
+[Topic Model 4 Style Guide](https://docs.google.com/document/d/1qJ6ESwHqPcD-eb_eruIBBK20WwHTvbpj_pXOOpNDF4I/edit?usp=sharing)
