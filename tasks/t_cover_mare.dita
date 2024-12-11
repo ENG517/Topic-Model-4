@@ -3,7 +3,7 @@
 <task id="t_cover_mare">
   <title>Cover a Mare with a Public Covering Offer</title>
   <shortdesc>
-    Players can breed a mare that is at least 2 years and 6 months of age by accepting a covering offer.
+    Players can breed a mare that is at least 2 years and 6 months old by accepting a covering offer.
   </shortdesc>
   <taskbody>
     <steps>
@@ -19,10 +19,10 @@
       </step>
       <step>
         <cmd>Pick the public covering offer you'd like to accept and select <uicontrol>Choose</uicontrol>.</cmd>
-        <stepresult>A confirmation page displays that allows you to preview the genetic details of the stallion before accepting the covering.</stepresult>
+        <stepresult>A confirmation page displays that allows you to preview the genetic details of the stallion.</stepresult>
       </step>
       <step>
-        <cmd>Confirm that the genetic details for both the sire and dam you are attempting to breed align with your desired traits.</cmd>
+        <cmd>Confirm that the genetic details for both the sire and dam align with your desired traits.</cmd>
       </step>
       <step>
         <cmd>If desired, apply items from the Black Market to your mare to enhance the gestation period or the foals she gives birth to.</cmd>
