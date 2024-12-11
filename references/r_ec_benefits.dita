@@ -3,7 +3,7 @@
 <reference id="r_ec_benefits">
   <title>Equestrian Center Benefits</title>
   <shortdesc>
-    The benefits offered by an equestrian center impacts your horse's care. By describing the various equestrian center benefits, you can select the equestrian center that is most appropriate to your horse and maximize care for your horse.
+    Equestrian center benefits directly impact your horse's care. Select the equestrian center that is most appropriate to your horse and maximize care for your horse.
   </shortdesc>
   <refbody>
     <table>
@@ -19,7 +19,7 @@
           <row>
             <entry>Box size</entry>
             <entry>
-              <p>The bigger the box is, the more morale a horse bedded there receives when it wakes up. Equestrian centers can provide the following types of boxes:</p>
+              <p>The bigger the box, the more morale a horse bedded there receives when it wakes up. Equestrian centers can provide the following types of boxes:</p>
               <ul>
                 <li>1* boxes</li>
                 <li>2** boxes</li>

@@ -3,7 +3,7 @@
 <task id="t_register_horse_ec">
   <title>Register a Horse in an Equestrian Center</title>
   <shortdesc>
-    At six months of age, after your horse has been weaned, you must board your horse in an equestrian center so that you can put it to bed and continue caring for it. The equestrian center you choose for your horse can have an impact on your horse's care and energy levels depending on the benefits it offers.
+    At six months old, after your horse has been weaned, you must board your horse in an equestrian center so that you can put it to bed and continue caring for it. The equestrian center you choose for your horse has an impact on care and energy levels depending on the benefits it offers.
   </shortdesc>
   <taskbody>
     <steps>
@@ -19,7 +19,9 @@
         <info>You can choose to board your horse in a public equestrian center or a reserved box. Equestrian center managers can choose to reserve boxes for their own horses or for other players.</info>
       </step>
       <step>
-        <cmd>Deterine the length of stay for your horse and select the equus amount listed for the desired equestrian center and length of stay.</cmd>
+        <cmd>
+          Determine your horse's length of stay and select the corresponding equus amount.
+        </cmd>
         <stepresult>The private page of your horse displays. Your horse is now boarded in an equestrian center.</stepresult>
       </step>
     </steps>
